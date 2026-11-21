@@ -1,0 +1,251 @@
+Record_ID,Week_Start_Date,City,Phone_Segment,Sales_Channel,Avg_Price_INR,Discount_Percent,Ad_Spend_INR,Weekly_Footfall,Customer_Rating,Units_Sold,Estimated_Revenue_INR,Sales_Status,Footfall_Band
+M1191,2026-02-02,Delhi,Premium,Online,83100,12.6,39000.0,764.0,4.4,36,2991600,Normal,Medium
+M1136,2025-06-09,Lucknow,Mid_Range,Retail_Store,25300,11.8,52500.0,761.0,3.7,45,1138500,Normal,Medium
+M1203,2025-12-22,Pune,Budget,Online,9800,9.8,19000.0,664.0,4.0,30,294000,Normal,Low
+M1126,2026-04-20,Mumbai,Mid_Range,Online,34100,2.9,43500.0,1098.0,4.1,36,1227600,Normal,Medium
+M1220,2025-08-11,Lucknow,Mid_Range,Online,28800,13.9,26000.0,1267.0,4.2,56,1612800,Normal,High
+M1184,2026-06-08,Delhi,Premium,Retail_Store,51500,12.8,21500.0,1299.0,3.9,64,3296000,Normal,High
+M1095,2026-09-07,Jaipur,Budget,Online,7700,12.2,24500.0,1110.0,3.9,44,338800,Normal,Medium
+M1248,2026-04-27,Jaipur,Mid_Range,Online,19000,10.9,18500.0,990.0,4.5,53,1007000,Normal,Medium
+M1058,2026-03-09,Jaipur,Mid_Range,Online,21400,5.2,54500.0,1130.0,3.5,41,877400,Normal,Medium
+M1067,2025-07-07,Delhi,Budget,Retail_Store,10200,4.7,62500.0,727.0,4.0,22,224400,At Risk,Medium
+M1074,2026-06-22,Mumbai,Budget,Distributor,14200,12.9,80000.0,903.0,4.4,42,596400,Normal,Medium
+M1151,2025-04-28,Delhi,Budget,Online,14800,4.3,59000.0,923.0,4.5,31,458800,Normal,Medium
+M1023,2026-02-02,Mumbai,Mid_Range,Online,34800,0.0,11500.0,877.0,4.3,37,1287600,Normal,Medium
+M1057,2026-03-30,Mumbai,Budget,Retail_Store,12400,16.0,15000.0,973.0,4.0,54,669600,Normal,Medium
+M1145,2026-06-08,Jaipur,Budget,Distributor,14400,10.6,73500.0,837.0,3.9,36,518400,Normal,Medium
+M1049,2025-04-14,Jaipur,Budget,Retail_Store,10400,2.6,35500.0,1184.0,4.2,39,405600,Normal,Medium
+M1154,2026-02-09,Mumbai,Mid_Range,Retail_Store,20200,14.4,66000.0,1349.0,3.9,64,1292800,Normal,High
+M1053,2025-09-01,Lucknow,Budget,Distributor,8500,8.5,25000.0,899.0,4.0,55,467500,Normal,Medium
+M1149,2026-06-22,Pune,Budget,Online,10000,10.9,61500.0,866.0,4.4,42,420000,Normal,Medium
+M1076,2025-09-08,Delhi,Mid_Range,Online,28700,11.8,66000.0,1304.0,3.9,37,1061900,Normal,High
+M1138,2026-08-24,Mumbai,Budget,Online,14900,8.7,79000.0,915.0,4.9,38,566200,Normal,Medium
+M1186,2025-11-10,Jaipur,Mid_Range,Online,30800,17.2,6500.0,618.0,4.1,47,1447600,Normal,Low
+M1238,2026-01-26,Delhi,Mid_Range,Online,19300,7.6,28000.0,1278.0,3.7,39,752700,Normal,High
+M1160,2026-07-13,Delhi,Budget,Online,9900,8.6,18500.0,634.0,3.9,52,514800,Normal,Low
+M1039,2026-05-04,Mumbai,Mid_Range,Retail_Store,33300,21.2,45000.0,658.0,3.9,51,1698300,Normal,Low
+M1054,2025-07-21,Delhi,Budget,Online,9200,14.0,41000.0,1153.0,4.5,56,515200,Normal,Medium
+M1237,2025-12-29,Pune,Budget,Online,12600,2.6,24000.0,733.0,4.1,26,327600,Normal,Medium
+M1109,2026-02-09,Jaipur,Budget,Online,7800,10.0,58000.0,1217.0,3.9,64,499200,Normal,Medium
+M1044,2025-12-01,Pune,Mid_Range,Online,21000,10.5,74500.0,831.0,3.7,45,945000,Normal,Medium
+M1185,2025-02-10,Delhi,Mid_Range,Retail_Store,22400,13.9,67000.0,1146.0,4.2,44,985600,Normal,Medium
+M1157,2025-04-28,Lucknow,Budget,Distributor,12200,13.5,56500.0,566.0,4.1,42,512400,Normal,Low
+M1210,2026-01-12,Mumbai,Budget,Online,12700,0.8,63500.0,1125.0,3.8,33,419100,Normal,Medium
+M1155,2026-09-14,Delhi,Premium,Retail_Store,65000,7.0,58000.0,1032.0,4.5,40,2600000,Normal,Medium
+M1190,2025-10-27,Delhi,Mid_Range,Retail_Store,20100,9.2,57500.0,1013.0,3.7,38,763800,Normal,Medium
+M1182,2026-06-15,Mumbai,Mid_Range,Online,18500,5.0,67000.0,683.0,4.3,16,296000,At Risk,Low
+M1226,2025-02-10,Delhi,Mid_Range,Online,28300,5.5,29000.0,1082.0,4.1,51,1443300,Normal,Medium
+M1029,2026-08-03,Mumbai,Mid_Range,Online,28400,17.2,23500.0,1017.0,4.7,53,1505200,Normal,Medium
+M1194,2025-03-24,Mumbai,Budget,Online,11000,7.4,27000.0,1221.0,4.2,44,484000,Normal,Medium
+M1027,2026-05-18,Lucknow,Budget,Online,9600,6.9,62000.0,764.0,4.2,15,144000,At Risk,Medium
+M1075,2026-11-02,Delhi,Budget,Online,7100,13.0,18500.0,1074.0,3.3,45,319500,Normal,Medium
+M1219,2025-10-06,Pune,Mid_Range,Online,32300,3.2,16500.0,1316.0,4.2,49,1582700,Normal,High
+M1008,2025-08-18,Delhi,Budget,Distributor,7400,15.0,17500.0,901.0,4.5,43,318200,Normal,Medium
+M1131,2026-05-25,Mumbai,Premium,Retail_Store,44400,13.3,62500.0,699.0,4.4,44,1953600,Normal,Medium
+M1117,2026-11-09,Delhi,Budget,Retail_Store,9700,18.9,77500.0,933.5,3.6,63,611100,Normal,Medium
+M1159,2024-12-16,Lucknow,Mid_Range,Retail_Store,18800,8.9,21000.0,585.0,3.6,23,432400,At Risk,Low
+M1055,2025-10-27,Lucknow,Mid_Range,Retail_Store,24900,9.0,79000.0,620.0,4.4,34,846600,Normal,Low
+M1231,2026-03-30,Lucknow,Premium,Retail_Store,79600,1.8,14500.0,1208.0,4.1,33,2626800,Normal,Medium
+M1120,2025-11-17,Mumbai,Budget,Retail_Store,11300,9.0,31500.0,1330.0,4.1,58,655400,Normal,High
+M1042,2026-03-09,Mumbai,Budget,Online,12000,18.5,10500.0,599.0,4.6,54,648000,Normal,Low
+M1064,2026-04-06,Pune,Mid_Range,Online,31600,11.3,13500.0,901.0,4.4,45,1422000,Normal,Medium
+M1016,2026-09-07,Mumbai,Budget,Online,14400,5.3,30500.0,396.0,3.4,16,230400,At Risk,Low
+M1169,2026-01-26,Jaipur,Budget,Retail_Store,7300,6.0,79500.0,1402.0,3.5,46,335800,Normal,High
+M1065,2026-08-03,Delhi,Mid_Range,Distributor,25800,15.8,74000.0,410.0,4.5,20,516000,At Risk,Low
+M1014,2026-10-05,Delhi,Premium,Online,90600,0.9,20500.0,1279.0,3.9,42,3805200,Normal,High
+M1241,2025-06-16,Lucknow,Premium,Distributor,102600,8.7,7000.0,1157.0,4.1,39,4001400,Normal,Medium
+M1073,2026-03-30,Lucknow,Premium,Online,48400,9.1,17500.0,998.0,3.8,43,2081200,Normal,Medium
+M1224,2025-10-27,Delhi,Mid_Range,Online,33400,0.0,18000.0,755.0,3.8,28,935200,Normal,Medium
+M1012,2026-08-10,Delhi,Budget,Retail_Store,13600,17.7,14000.0,827.0,4.3,61,829600,Normal,Medium
+M1225,2026-02-16,Jaipur,Budget,Retail_Store,11600,8.3,41000.0,1095.0,4.0,41,475600,Normal,Medium
+M1070,2025-08-04,Delhi,Mid_Range,Online,17200,7.7,59000.0,1081.0,3.7,35,602000,Normal,Medium
+M1041,2025-06-23,Lucknow,Mid_Range,Online,15400,12.9,70500.0,1535.0,4.6,75,1155000,Normal,High
+M1001,2025-08-11,Mumbai,Budget,Retail_Store,7100,6.0,27000.0,952.0,4.0,40,284000,Normal,Medium
+M1204,2026-08-10,Delhi,Premium,Retail_Store,93200,3.7,77000.0,188.0,3.8,14,1304800,At Risk,Low
+M1236,2026-01-19,Pune,Budget,Retail_Store,10500,8.3,55000.0,1014.0,3.8,36,378000,Normal,Medium
+M1167,2024-12-23,Mumbai,Budget,Online,12000,2.1,18500.0,1549.0,4.4,60,720000,Normal,High
+M1227,2025-05-26,Mumbai,Budget,Online,12600,13.4,60500.0,1258.0,4.3,51,642600,Normal,High
+M1230,2025-09-15,Mumbai,Budget,Distributor,7200,8.5,38500.0,627.0,3.8,30,216000,Normal,Low
+M1216,2026-11-02,Mumbai,Mid_Range,Distributor,27000,8.3,76500.0,551.0,3.6,6,162000,At Risk,Low
+M1123,2026-11-02,Mumbai,Premium,Retail_Store,69900,14.9,28000.0,547.0,3.5,38,2656200,Normal,Low
+M1200,2025-07-28,Delhi,Mid_Range,Retail_Store,28300,18.3,31500.0,510.0,3.6,29,820700,Normal,Low
+M1171,2026-03-16,Delhi,Budget,Retail_Store,9100,19.9,11000.0,1235.0,3.2,67,609700,Normal,Medium
+M1143,2025-12-01,Mumbai,Budget,Retail_Store,7600,7.0,33500.0,866.0,3.4,31,235600,Normal,Medium
+M1086,2025-09-08,Mumbai,Budget,Online,11600,21.2,7500.0,757.0,3.7,42,487200,Normal,Medium
+M1019,2025-05-26,Delhi,Budget,Distributor,8600,21.1,14500.0,1419.0,4.0,70,602000,Normal,High
+M1017,2025-02-17,Delhi,Budget,Online,12900,0.0,13500.0,617.0,3.5,18,232200,At Risk,Low
+M1146,2025-04-14,Delhi,Budget,Online,13000,5.2,79500.0,808.0,4.4,37,481000,Normal,Medium
+M1040,2026-01-26,Mumbai,Budget,Online,7700,12.7,41500.0,687.0,3.7,46,354200,Normal,Low
+M1089,2025-09-22,Lucknow,Budget,Online,13500,18.0,55500.0,1503.0,3.9,58,783000,Normal,High
+M1063,2025-06-23,Mumbai,Budget,Distributor,8700,9.2,48500.0,267.0,4.1,29,252300,Normal,Low
+M1135,2026-06-15,Delhi,Budget,Online,10500,4.2,44000.0,1401.0,3.2,40,420000,Normal,High
+M1196,2025-01-27,Delhi,Mid_Range,Retail_Store,29200,0.0,32000.0,1351.0,4.4,38,1109600,Normal,High
+M1094,2025-04-07,Delhi,Budget,Retail_Store,9000,24.7,68000.0,799.0,4.5,63,567000,Normal,Medium
+M1009,2025-08-25,Delhi,Mid_Range,Distributor,27200,17.2,47500.0,1053.0,3.9,50,1360000,Normal,Medium
+M1060,2025-04-07,Delhi,Budget,Retail_Store,8100,17.0,54000.0,969.0,4.5,48,388800,Normal,Medium
+M1217,2026-03-02,Lucknow,Mid_Range,Online,28900,4.8,31500.0,1079.0,4.1,23,664700,At Risk,Medium
+M1158,2025-11-10,Pune,Budget,Online,10900,6.4,59000.0,490.0,4.5,18,196200,At Risk,Low
+M1213,2026-01-19,Lucknow,Budget,Online,14700,12.6,42000.0,1425.0,4.5,65,955500,Normal,High
+M1245,2026-02-09,Delhi,Mid_Range,Distributor,27200,9.9,74000.0,1164.0,4.3,43,1169600,Normal,Medium
+M1240,2025-04-07,Mumbai,Budget,Online,13400,9.2,32000.0,728.0,4.2,36,482400,Normal,Medium
+M1072,2026-05-11,Lucknow,Budget,Retail_Store,11000,4.8,63500.0,378.0,3.9,33,363000,Normal,Low
+M1193,2025-11-17,Lucknow,Mid_Range,Retail_Store,27300,10.9,34000.0,1137.0,4.5,62,1692600,Normal,Medium
+M1242,2026-09-07,Jaipur,Budget,Online,8900,17.7,33000.0,1430.0,3.6,52,462800,Normal,High
+M1034,2026-03-09,Delhi,Budget,Retail_Store,12200,0.9,48000.0,933.0,3.8,13,158600,At Risk,Medium
+M1051,2025-10-27,Delhi,Budget,Online,14700,5.5,71000.0,1119.0,3.9,46,676200,Normal,Medium
+M1031,2025-08-18,Mumbai,Budget,Retail_Store,11700,3.2,15500.0,978.0,4.0,37,432900,Normal,Medium
+M1174,2025-04-07,Pune,Premium,Retail_Store,57600,15.2,18500.0,1788.0,3.5,76,4377600,Normal,High
+M1043,2025-06-23,Delhi,Budget,Online,7800,7.7,51000.0,842.0,4.0,48,374400,Normal,Medium
+M1077,2025-09-29,Delhi,Mid_Range,Retail_Store,22400,16.4,18500.0,1341.0,3.8,60,1344000,Normal,High
+M1047,2026-09-28,Pune,Budget,Retail_Store,8300,13.9,56000.0,150.0,4.0,32,265600,Normal,Low
+M1115,2025-10-06,Lucknow,Mid_Range,Online,32500,0.0,66000.0,1123.0,4.4,33,1072500,Normal,Medium
+M1235,2025-06-02,Delhi,Mid_Range,Retail_Store,17800,2.6,62000.0,998.0,3.9,26,462800,Normal,Medium
+M1100,2026-03-09,Mumbai,Mid_Range,Online,34700,4.3,5000.0,869.0,4.0,39,1353300,Normal,Medium
+M1163,2025-02-17,Mumbai,Budget,Online,11400,5.9,33500.0,420.0,3.5,32,364800,Normal,Low
+M1010,2026-03-30,Pune,Mid_Range,Online,20200,0.0,77500.0,686.0,4.2,30,606000,Normal,Low
+M1176,2025-05-05,Pune,Budget,Online,7500,2.8,36000.0,1495.0,4.7,49,367500,Normal,High
+M1139,2025-01-13,Delhi,Budget,Retail_Store,10600,1.9,80000.0,1169.0,3.5,21,222600,At Risk,Medium
+M1045,2026-05-18,Mumbai,Mid_Range,Distributor,17400,2.4,42000.0,1306.0,3.7,37,643800,Normal,High
+M1082,2025-03-24,Lucknow,Budget,Online,13400,23.8,46000.0,153.0,3.8,27,361800,Normal,Low
+M1140,2025-10-13,Lucknow,Budget,Online,11900,9.2,20500.0,935.0,4.0,27,321300,Normal,Medium
+M1173,2026-07-27,Mumbai,Mid_Range,Online,19100,9.8,64500.0,714.0,3.8,34,649400,Normal,Medium
+M1214,2025-12-01,Lucknow,Budget,Retail_Store,10400,14.8,73000.0,562.0,4.2,48,499200,Normal,Low
+M1208,2025-04-14,Mumbai,Mid_Range,Online,18300,3.6,43000.0,1348.0,3.9,45,823500,Normal,High
+M1150,2025-01-06,Mumbai,Mid_Range,Distributor,21800,6.8,21000.0,1517.0,4.4,59,1286200,Normal,High
+M1097,2025-10-13,Mumbai,Mid_Range,Retail_Store,17300,8.9,73500.0,367.0,4.4,21,363300,At Risk,Low
+M1164,2025-10-27,Delhi,Mid_Range,Online,16700,15.1,47000.0,456.0,3.9,32,534400,Normal,Low
+M1202,2026-11-02,Mumbai,Mid_Range,Online,31700,13.0,51000.0,580.0,4.6,39,1236300,Normal,Low
+M1056,2026-10-26,Mumbai,Premium,Online,88200,16.6,34000.0,696.0,4.3,42,3704400,Normal,Low
+M1050,2026-02-09,Delhi,Budget,Distributor,12800,14.0,33000.0,1681.0,4.5,67,857600,Normal,High
+M1199,2025-05-05,Mumbai,Budget,Retail_Store,10200,16.4,48000.0,150.0,3.8,22,224400,At Risk,Low
+M1148,2025-07-07,Mumbai,Budget,Online,11900,6.8,38500.0,891.0,4.3,37,440300,Normal,Medium
+M1152,2026-01-05,Delhi,Mid_Range,Online,32800,6.4,44500.0,1087.0,3.9,52,1705600,Normal,Medium
+M1133,2026-04-20,Pune,Mid_Range,Online,31400,19.3,29000.0,722.0,4.0,51,1601400,Normal,Medium
+M1195,2026-11-16,Mumbai,Mid_Range,Distributor,24400,0.0,41500.0,720.0,4.9,23,561200,At Risk,Medium
+M1137,2025-11-10,Lucknow,Mid_Range,Retail_Store,23800,19.3,17500.0,850.0,4.6,47,1118600,Normal,Medium
+M1113,2025-05-19,Delhi,Mid_Range,Distributor,20700,8.1,57000.0,1345.0,3.7,52,1076400,Normal,High
+M1198,2025-01-27,Pune,Budget,Online,12200,8.9,42000.0,1154.0,4.1,47,573400,Normal,Medium
+M1107,2026-06-08,Jaipur,Premium,Online,76800,2.0,74500.0,1406.0,4.2,39,2995200,Normal,High
+M1080,2026-03-30,Pune,Budget,Online,8900,0.0,42500.0,1225.0,3.8,42,373800,Normal,Medium
+M1130,2025-12-15,Lucknow,Mid_Range,Online,29200,0.0,79500.0,900.0,3.7,17,496400,At Risk,Medium
+M1026,2026-04-06,Delhi,Mid_Range,Retail_Store,30100,17.8,56500.0,671.0,3.9,54,1625400,Normal,Low
+M1125,2026-02-16,Mumbai,Budget,Retail_Store,8700,5.5,38500.0,1135.0,4.0,35,304500,Normal,Medium
+M1175,2025-02-17,Pune,Premium,Retail_Store,45900,13.4,10000.0,614.0,3.6,44,2019600,Normal,Low
+M1101,2026-02-16,Jaipur,Budget,Distributor,12800,2.6,67500.0,933.5,3.5,56,716800,Normal,Medium
+M1177,2026-11-02,Mumbai,Premium,Retail_Store,98900,5.6,64500.0,583.0,4.0,16,1582400,At Risk,Low
+M1206,2025-10-20,Pune,Budget,Retail_Store,14800,6.4,62500.0,696.0,3.9,20,296000,At Risk,Low
+M1218,2026-06-29,Jaipur,Mid_Range,Online,19600,12.7,78000.0,939.0,4.0,53,1038800,Normal,Medium
+M1092,2026-10-12,Lucknow,Budget,Online,14400,11.6,34000.0,805.0,3.4,27,388800,Normal,Medium
+M1188,2026-01-12,Delhi,Mid_Range,Distributor,22300,1.7,43500.0,557.0,3.2,26,579800,Normal,Low
+M1134,2025-11-24,Delhi,Mid_Range,Retail_Store,16200,9.7,59000.0,1367.0,3.8,50,810000,Normal,High
+M1212,2026-09-28,Lucknow,Mid_Range,Retail_Store,30700,0.0,60000.0,868.0,3.8,27,828900,Normal,Medium
+M1033,2025-06-16,Mumbai,Mid_Range,Distributor,28500,0.7,10000.0,929.0,3.4,31,883500,Normal,Medium
+M1103,2026-10-05,Jaipur,Premium,Online,71700,11.8,13000.0,934.0,4.0,32,2294400,Normal,Medium
+M1228,2025-05-26,Lucknow,Premium,Retail_Store,85100,11.3,27500.0,909.0,3.7,48,4084800,Normal,Medium
+M1234,2025-12-08,Pune,Mid_Range,Online,29900,11.4,46500.0,1208.0,3.6,45,1345500,Normal,Medium
+M1005,2026-08-17,Delhi,Budget,Online,8300,20.0,31500.0,1202.0,3.9,76,630800,Normal,Medium
+M1087,2026-04-13,Pune,Premium,Online,54400,10.6,28000.0,970.0,4.2,49,2665600,Normal,Medium
+M1147,2026-07-27,Delhi,Mid_Range,Retail_Store,28900,14.9,43500.0,946.0,3.5,41,1184900,Normal,Medium
+M1205,2025-04-28,Pune,Budget,Retail_Store,7200,8.0,12000.0,1437.0,4.3,64,460800,Normal,High
+M1078,2025-07-28,Jaipur,Budget,Online,7900,12.8,36000.0,1569.0,4.2,76,600400,Normal,High
+M1066,2025-02-10,Delhi,Premium,Retail_Store,107000,9.7,53000.0,1031.0,3.7,28,2996000,Normal,Medium
+M1024,2025-01-06,Pune,Mid_Range,Online,24000,5.5,51500.0,443.0,3.7,15,360000,At Risk,Low
+M1181,2025-02-03,Lucknow,Budget,Distributor,13800,7.4,69000.0,1322.0,4.0,60,828000,Normal,High
+M1197,2026-10-05,Pune,Premium,Retail_Store,70700,9.7,63500.0,1540.0,3.8,62,4383400,Normal,High
+M1084,2025-10-06,Lucknow,Mid_Range,Distributor,26200,15.2,63000.0,1281.0,3.3,56,1467200,Normal,High
+M1071,2026-05-11,Delhi,Budget,Online,12300,2.8,31000.0,700.0,4.5,28,344400,Normal,Medium
+M1098,2025-07-28,Pune,Premium,Online,87400,2.8,16500.0,1064.0,3.7,25,2185000,Normal,Medium
+M1168,2026-11-09,Jaipur,Mid_Range,Online,21700,9.4,33000.0,964.0,3.9,38,824600,Normal,Medium
+M1105,2026-02-23,Delhi,Mid_Range,Online,29500,3.5,7000.0,746.0,4.0,30,885000,Normal,Medium
+M1124,2026-03-23,Lucknow,Budget,Online,15000,2.7,62000.0,1129.0,4.0,38,570000,Normal,Medium
+M1116,2025-11-03,Mumbai,Budget,Retail_Store,14800,7.8,10500.0,933.5,3.8,48,710400,Normal,Medium
+M1046,2026-09-21,Delhi,Budget,Retail_Store,11000,8.6,51000.0,1353.0,4.2,59,649000,Normal,High
+M1222,2025-07-07,Mumbai,Budget,Retail_Store,13500,10.6,46000.0,933.5,4.8,46,621000,Normal,Medium
+M1153,2025-03-24,Delhi,Mid_Range,Distributor,20000,13.3,52500.0,557.0,3.6,28,560000,Normal,Low
+M1004,2025-06-23,Pune,Mid_Range,Retail_Store,25800,8.5,41500.0,286.0,3.9,28,722400,Normal,Low
+M1165,2025-03-10,Delhi,Premium,Online,67600,9.9,43500.0,1410.0,3.6,66,4461600,Normal,High
+M1119,2025-11-24,Delhi,Budget,Online,9400,20.0,44000.0,829.0,4.6,47,441800,Normal,Medium
+M1083,2026-11-09,Mumbai,Budget,Online,8300,1.0,13500.0,702.0,4.9,20,166000,At Risk,Medium
+M1243,2026-09-14,Pune,Mid_Range,Retail_Store,16800,6.6,40000.0,1122.0,4.1,51,856800,Normal,Medium
+M1180,2025-07-07,Delhi,Budget,Retail_Store,9400,7.6,38000.0,1078.0,4.1,38,357200,Normal,Medium
+M1088,2025-12-15,Mumbai,Budget,Retail_Store,15000,10.9,66500.0,465.0,4.0,42,630000,Normal,Low
+M1099,2025-04-21,Mumbai,Budget,Distributor,10700,4.5,38500.0,943.0,3.8,45,481500,Normal,Medium
+M1102,2026-04-13,Pune,Budget,Online,8000,15.6,68500.0,905.0,3.9,55,440000,Normal,Medium
+M1207,2025-02-17,Pune,Budget,Online,14400,10.3,40000.0,1469.0,4.2,58,835200,Normal,High
+M1114,2026-06-22,Pune,Mid_Range,Online,32800,15.2,43500.0,1291.0,3.9,48,1574400,Normal,High
+M1223,2025-07-14,Pune,Mid_Range,Distributor,15100,7.2,71500.0,539.0,4.5,6,90600,At Risk,Low
+M1170,2025-08-04,Pune,Budget,Retail_Store,13900,6.0,78000.0,1130.0,4.7,46,639400,Normal,Medium
+M1142,2026-06-01,Delhi,Mid_Range,Online,24700,17.1,16500.0,862.0,4.4,56,1383200,Normal,Medium
+M1028,2026-04-27,Jaipur,Premium,Online,84100,3.8,64500.0,692.0,4.9,26,2186600,Normal,Low
+M1020,2026-11-09,Pune,Budget,Online,13600,16.2,18500.0,934.0,4.3,37,503200,Normal,Medium
+M1090,2024-11-25,Mumbai,Budget,Retail_Store,13600,6.8,55000.0,867.0,4.1,38,516800,Normal,Medium
+M1104,2024-12-09,Mumbai,Mid_Range,Online,25200,12.4,32000.0,564.0,3.9,14,352800,At Risk,Low
+M1096,2025-01-06,Mumbai,Budget,Retail_Store,7100,11.9,42500.0,1231.0,4.1,46,326600,Normal,Medium
+M1052,2026-05-11,Delhi,Budget,Retail_Store,11400,13.2,56500.0,979.0,4.4,53,604200,Normal,Medium
+M1187,2025-11-03,Delhi,Premium,Retail_Store,73200,4.3,29000.0,1292.0,4.2,35,2562000,Normal,High
+M1221,2026-06-29,Pune,Mid_Range,Online,30400,14.8,74500.0,1220.0,4.5,60,1824000,Normal,Medium
+M1209,2025-09-08,Delhi,Mid_Range,Online,21900,8.4,68500.0,795.0,4.3,48,1051200,Normal,Medium
+M1162,2026-05-04,Pune,Budget,Online,12400,5.8,52000.0,769.0,4.6,15,186000,At Risk,Medium
+M1011,2026-06-01,Lucknow,Budget,Online,11600,9.4,20500.0,205.0,4.6,26,301600,Normal,Low
+M1062,2026-03-02,Lucknow,Mid_Range,Retail_Store,31800,4.8,35500.0,606.0,4.7,21,667800,At Risk,Low
+M1106,2025-11-10,Pune,Budget,Online,10500,19.3,70000.0,1292.0,3.4,63,661500,Normal,High
+M1038,2025-12-15,Lucknow,Budget,Online,14200,2.1,26000.0,837.0,3.0,29,411800,Normal,Medium
+M1003,2025-02-10,Lucknow,Budget,Retail_Store,9000,12.5,57500.0,819.0,3.8,29,261000,Normal,Medium
+M1032,2025-12-01,Mumbai,Mid_Range,Online,21000,10.0,70000.0,1648.0,4.0,72,1512000,Normal,High
+M1211,2024-12-30,Mumbai,Premium,Online,102300,7.2,9000.0,1071.0,4.4,31,3171300,Normal,Medium
+M1079,2025-04-21,Delhi,Mid_Range,Distributor,17700,17.5,39500.0,1259.0,4.8,57,1008900,Normal,High
+M1244,2025-06-16,Pune,Mid_Range,Retail_Store,21400,10.2,73500.0,926.0,4.7,32,684800,Normal,Medium
+M1015,2025-05-26,Mumbai,Budget,Online,10400,16.1,45500.0,636.0,4.7,37,384800,Normal,Low
+M1172,2026-03-09,Delhi,Budget,Online,11600,19.0,27000.0,1567.0,4.7,59,684400,Normal,High
+M1081,2026-06-29,Jaipur,Budget,Online,11700,2.3,52500.0,729.0,3.8,33,386100,Normal,Medium
+M1108,2026-03-23,Lucknow,Budget,Online,14100,7.6,46000.0,1055.0,4.1,14,197400,At Risk,Medium
+M1250,2025-03-31,Lucknow,Premium,Online,100400,8.3,64500.0,660.0,3.5,35,3514000,Normal,Low
+M1189,2026-09-28,Jaipur,Mid_Range,Distributor,21100,17.1,11500.0,1387.0,3.9,68,1434800,Normal,High
+M1161,2026-08-31,Mumbai,Budget,Retail_Store,14800,4.5,60000.0,830.0,4.2,33,488400,Normal,Medium
+M1018,2024-12-02,Jaipur,Budget,Retail_Store,8800,9.9,51000.0,1328.0,4.1,41,360800,Normal,High
+M1129,2025-03-31,Jaipur,Premium,Online,65200,13.2,9500.0,539.0,3.7,28,1825600,Normal,Low
+M1179,2025-10-20,Delhi,Budget,Retail_Store,15000,2.1,47000.0,558.0,4.4,5,75000,At Risk,Low
+M1091,2026-09-07,Lucknow,Premium,Retail_Store,91600,16.4,62000.0,635.0,3.8,44,4030400,Normal,Low
+M1121,2025-08-04,Mumbai,Mid_Range,Online,15700,18.1,43500.0,1189.0,3.9,67,1051900,Normal,Medium
+M1233,2026-05-04,Mumbai,Budget,Retail_Store,7200,18.4,12500.0,150.0,3.7,37,266400,Normal,Low
+M1007,2026-02-09,Mumbai,Mid_Range,Distributor,21800,16.7,53500.0,1008.0,3.9,46,1002800,Normal,Medium
+M1030,2026-03-09,Delhi,Budget,Retail_Store,9100,2.6,56500.0,913.0,4.1,32,291200,Normal,Medium
+M1141,2026-10-05,Mumbai,Premium,Online,99300,0.2,64500.0,931.0,4.3,37,3674100,Normal,Medium
+M1002,2026-06-08,Delhi,Budget,Online,9700,18.5,54000.0,518.0,4.1,39,378300,Normal,Low
+M1093,2025-02-10,Mumbai,Mid_Range,Online,19500,12.0,74000.0,1172.0,3.9,55,1072500,Normal,Medium
+M1022,2026-05-04,Delhi,Premium,Online,60600,12.2,17000.0,598.0,4.3,26,1575600,Normal,Low
+M1025,2025-12-08,Lucknow,Budget,Retail_Store,10400,6.4,76000.0,1472.0,4.3,54,561600,Normal,High
+M1239,2026-04-06,Lucknow,Mid_Range,Retail_Store,18200,0.0,63000.0,1191.0,3.7,33,600600,Normal,Medium
+M1059,2026-02-02,Pune,Mid_Range,Retail_Store,22100,11.6,13500.0,456.0,3.9,43,950300,Normal,Low
+M1061,2025-09-01,Delhi,Premium,Online,52300,13.0,42000.0,608.0,4.2,41,2144300,Normal,Low
+M1201,2026-05-25,Lucknow,Mid_Range,Retail_Store,29900,0.2,49000.0,209.0,4.2,5,149500,At Risk,Low
+M1110,2025-12-29,Delhi,Mid_Range,Online,17500,9.4,6000.0,1084.0,3.7,55,962500,Normal,Medium
+M1013,2025-07-07,Mumbai,Budget,Retail_Store,11800,16.7,7500.0,150.0,4.2,31,365800,Normal,Low
+M1006,2025-07-14,Delhi,Mid_Range,Distributor,17800,7.5,58500.0,188.0,4.0,26,462800,Normal,Low
+M1178,2025-09-08,Delhi,Budget,Online,11400,8.7,70000.0,1014.0,4.4,31,353400,Normal,Medium
+M1127,2025-04-07,Lucknow,Mid_Range,Retail_Store,26700,17.1,32500.0,150.0,4.1,43,1148100,Normal,Low
+M1128,2026-06-08,Delhi,Mid_Range,Retail_Store,30900,3.9,62500.0,1313.0,4.3,32,988800,Normal,High
+M1132,2025-10-06,Mumbai,Mid_Range,Distributor,19800,0.0,56000.0,606.0,4.7,30,594000,Normal,Low
+M1166,2024-12-23,Jaipur,Budget,Online,13200,3.8,19000.0,1322.0,4.2,39,514800,Normal,High
+M1156,2026-08-10,Mumbai,Budget,Online,8500,6.1,52000.0,937.0,3.6,45,382500,Normal,Medium
+M1118,2026-06-22,Mumbai,Budget,Online,10400,15.7,76000.0,1148.0,4.7,49,509600,Normal,Medium
+M1246,2025-10-20,Pune,Budget,Online,8200,12.5,26000.0,657.0,3.5,30,246000,Normal,Low
+M1037,2026-04-06,Delhi,Premium,Distributor,89900,0.0,43500.0,1085.0,4.3,23,2067700,At Risk,Medium
+M1112,2025-04-28,Delhi,Budget,Online,9700,8.8,54500.0,201.0,4.0,18,174600,At Risk,Low
+M1144,2026-01-19,Jaipur,Budget,Online,13800,7.2,5000.0,1326.0,4.2,36,496800,Normal,High
+M1068,2026-06-15,Pune,Budget,Online,9000,14.1,30000.0,1107.0,4.0,52,468000,Normal,Medium
+M1215,2026-07-27,Mumbai,Mid_Range,Retail_Store,34500,14.8,12000.0,971.0,4.4,39,1345500,Normal,Medium
+M1085,2025-12-08,Mumbai,Budget,Online,10100,7.9,15500.0,1520.0,4.4,56,565600,Normal,High
+M1249,2025-03-17,Pune,Mid_Range,Distributor,29300,12.5,44500.0,871.0,4.1,56,1640800,Normal,Medium
+M1183,2025-03-31,Jaipur,Mid_Range,Online,29000,9.2,71500.0,1038.0,3.9,34,986000,Normal,Medium
+M1122,2025-04-07,Lucknow,Budget,Retail_Store,9400,19.0,43500.0,951.0,3.4,78,733200,Normal,Medium
+M1232,2026-06-15,Pune,Mid_Range,Retail_Store,29100,6.3,17500.0,1014.0,4.5,39,1134900,Normal,Medium
+M1036,2026-03-30,Delhi,Premium,Retail_Store,79600,9.4,30000.0,434.0,3.5,24,1910400,At Risk,Low
+M1229,2025-01-27,Mumbai,Budget,Distributor,13000,1.7,32500.0,477.0,3.9,19,247000,At Risk,Low
+M1035,2026-08-10,Pune,Mid_Range,Distributor,29600,18.7,79500.0,701.0,4.0,54,1598400,Normal,Medium
+M1021,2025-12-08,Pune,Budget,Online,9100,7.2,42000.0,711.0,4.7,18,163800,At Risk,Medium
+M1048,2026-03-23,Lucknow,Budget,Online,11400,4.7,33500.0,1302.0,3.7,50,570000,Normal,High
+M1247,2026-05-25,Lucknow,Mid_Range,Retail_Store,29400,16.6,35000.0,543.0,3.7,56,1646400,Normal,Low
+M1192,2025-04-07,Jaipur,Budget,Online,10300,10.0,43000.0,801.0,4.0,48,494400,Normal,Medium
+M1111,2025-01-13,Lucknow,Mid_Range,Retail_Store,26300,3.2,74000.0,563.0,4.1,29,762700,Normal,Low
+M1069,2025-05-12,Mumbai,Mid_Range,Retail_Store,25700,11.3,61500.0,359.0,3.9,21,539700,At Risk,Low
